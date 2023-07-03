@@ -1,0 +1,93 @@
+{
+    "skills": [{
+            "id": 1,
+            "title": "CSS",
+            "content": "At Life Choices I have learned advance CSS"
+        },
+        {
+            "id": 2,
+            "title": "HTML",
+            "content": "At Life Choices I have leaned the basic and advanced HTML"
+        },
+        {
+            "id": 3,
+            "title": "JS",
+            "content": "At Life Choices I have learned all the way up to advance Javascript"
+        }
+    ],
+    "education": [{
+            "id": 1,
+            "title": "Elsie's River High School",
+            "Year": 2022,
+            "content": "I matriculated at ELHS in 2022 and high school is where I discovered my passion for coding"
+        },
+        {
+            "id": 2,
+            "title": "Life Choices Academy",
+            "year": 2023,
+            "content": "I enrolled at Life Choices Academy in 2023 where im currently learning how to code"
+        }
+    ],
+    "projects": [{
+            "id": 1,
+            "Title": "Javascript E-commerce project",
+            "Image": "",
+            "URL": ""
+        },
+        {
+            "id": 2,
+            "Title": "Bootstrap Portfolio",
+            "Image": "",
+            "URL": ""
+        },
+        {
+            "id": 3,
+            "Title": "First practise with vue",
+            "Image": "",
+            "URL": ""
+        },
+        {
+            "id": 4,
+            "Title": "Javascript calculator",
+            "Image": "",
+            "URL": ""
+        },
+        {
+            "id": 5,
+            "Title": "Javascript Bmi-Calculator",
+            "Image": "",
+            "URL": ""
+        }
+    ],
+    "testimonials": [{
+        "id": 1,
+        "Title": "Jason Barron",
+        "Content": "Zubair is a person that is like a sitcom character, always finding themselves in hilarious situations despite his shyness and constantly trying to work hard to get out of them",
+        "URL": "https://i.postimg.cc/rwrMMByT/c12-marcel-brown-1.jpg"
+    },
+    {
+        "id": 2,
+        "Title": "Marcel Brown",
+        "Content": "Zubair is like a comedian who uses self-deprecating humor to make light of his shyness and show how hard he work to overcome it.",
+        "URL": "https://i.postimg.cc/rwrMMByT/c12-marcel-brown-1.jpg"
+    },
+    {
+        "id": 3,
+        "Title": "Connor Winkworth",
+        "Content": "This person is like a cartoon character, with his awkwardness and dedication to his work making for a comedic combination.",
+        "URL": "https://i.postimg.cc/rwrMMByT/c12-marcel-brown-1.jpg"
+    },
+    {
+        "id": 4,
+        "Title": "Sakhe Mzolisa",
+        "Content": "As a web development student, I have been thoroughly impressed with Zubair's skills and dedication to the craft. His ability to quickly learn and apply new technologies is admirable. Zubair's attention to detail ensures that every project is executed with precision and meets the highest standards. Zubair is a reliable team player who always goes above and beyond to ensure project success. I highly recommend Zubair for any ICT company.",
+        "URL": "https://i.postimg.cc/rwrMMByT/c12-marcel-brown-1.jpg"
+    },
+    {
+        "id": 5,
+        "Title": "Liyabona Mxhhalis",
+        "Content": "Zubair is like a lovable underdog, always pushing himself to work harder despite his shyness and making us laugh with his endearing quirks.",
+        "URL": "https://i.postimg.cc/rwrMMByT/c12-marcel-brown-1.jpg"
+    }
+]
+}
