@@ -31,32 +31,44 @@
     "projects": [{
             "id": 1,
             "Title": "Javascript E-commerce project",
-            "Image": "",
-            "URL": ""
+            "Image": "https://i.postimg.cc/zvGF24tg/Screenshot-2023-07-05-160254.png",
+            "URL": "https://dancing-dieffenbachia-1e4ff9.netlify.app/",
+            "Github": "https://github.com/ZubsZero/TheGardenOfEden"
         },
         {
             "id": 2,
             "Title": "Bootstrap Portfolio",
-            "Image": "",
-            "URL": ""
+            "Image": "https://i.postimg.cc/xTS0HYZ8/Screenshot-2023-07-05-160213.png",
+            "URL": "https://charming-beignet-9e5ad1.netlify.app/",
+            "Github":"https://github.com/ZubsZero/Project-_week"
         },
         {
             "id": 3,
-            "Title": "First practise with vue",
-            "Image": "",
-            "URL": ""
+            "Title": "Temperature Converter",
+            "Image": "https://i.postimg.cc/BbN44PBz/Screenshot-2023-07-05-160514.png",
+            "URL": "https://sunny-wisp-b9b0eb.netlify.app/",
+            "Github":"https://github.com/ZubsZero/temp"
         },
         {
             "id": 4,
             "Title": "Javascript calculator",
-            "Image": "",
-            "URL": ""
+            "Image": "https://i.postimg.cc/fRzScYPV/Screenshot-2023-07-05-160346.png",
+            "URL": "https://snazzy-mochi-768236.netlify.app/",
+            "Github":"https://github.com/ZubsZero/calculator"
         },
         {
             "id": 5,
             "Title": "Javascript Bmi-Calculator",
-            "Image": "",
-            "URL": ""
+            "Image": "https://i.postimg.cc/vTvHTNb3/Screenshot-2023-07-05-160425.png",
+            "URL": "https://chic-moonbeam-ce1b21.netlify.app/",
+            "Github":"https://github.com/ZubsZero/BMI"
+        },
+        {
+            "id": 6,
+            "Title": "Hulu Practice",
+            "Image": "https://i.postimg.cc/QtXzs4YX/Screenshot-2023-07-05-160625.png",
+            "URL": "https://statuesque-melba-16cd16.netlify.app/",
+            "Github":"https://github.com/ZubsZero/completed-html"
         }
     ],
     "testimonials": [{
