@@ -18,7 +18,7 @@
     "education": [{
             "id": 1,
             "title": "Elsie's River High School",
-            "Year": 2022,
+            "year": 2022,
             "content": "I matriculated at ELHS in 2022 and high school is where I discovered my passion for coding"
         },
         {
